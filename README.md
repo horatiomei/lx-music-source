@@ -239,7 +239,7 @@ https://gh-proxy.org/raw.githubusercontent.com/pdone/lx-music-source/main/yuning
 
 ## 音源可用性
 
-<img alt="音源可用性检测结果" src="https://raw.githubusercontent.com/pdone/lx-music-source/health-status/status.svg" />
+<img alt="音源可用性检测结果" src="https://raw.githubusercontent.com/horatiomei/lx-music-source/health-status/status.svg" />
 
 每日 01:00（北京时间）检测一次；仅在检测状态发生变化时更新图片，报告与探测状态存放于 `health-status` 分支。
 
